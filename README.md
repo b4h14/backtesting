@@ -7,24 +7,6 @@
   <a href="https://twitter.com/home?lang=pt">Ask a Question</a>
 </div>
 
-<div align="center">
-<br />
-
-
-</div>
-
-<details open="open">
-<summary>Table of Contents</summary>
-
-- [About](#about)
-  - [Built With](#built-with)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-</details>
-
----
-
 ## About
 
 > Project based on backtesting and experimenting strategies
