@@ -1,0 +1,24 @@
+Start                         2021-10-18 03:00:00+00:00
+End                           2022-10-17 03:00:00+00:00
+Period                                              250
+Start Value                                       100.0
+End Value                                     96.335926
+Total Return [%]                              -3.664074
+Benchmark Return [%]                         -28.516527
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              26.089048
+Max Drawdown Duration                             178.0
+Total Trades                                          2
+Total Closed Trades                                   1
+Total Open Trades                                     1
+Open Trade PnL                               -21.626242
+Win Rate [%]                                      100.0
+Best Trade [%]                                17.962168
+Worst Trade [%]                               17.962168
+Avg Winning Trade [%]                         17.962168
+Avg Losing Trade [%]                                NaN
+Avg Winning Trade Duration                         18.0
+Avg Losing Trade Duration                           NaN
+Profit Factor                                       inf
+Expectancy                                    17.962168
