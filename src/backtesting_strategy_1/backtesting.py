@@ -37,6 +37,7 @@ list_stock_enterprises = [
 def plot_bbands(vbt_stock, stock_enterprise):
     """
     Plots the BBANDS of a vbt object.
+    
     """
     df = vbt_stock.get().reset_index()
 
