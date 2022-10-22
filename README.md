@@ -18,8 +18,6 @@
 <br>
 
 ### Built With
-
-> **[?]**
 > VectorBT, Backtesting.py, Yfinance and Python.
 
 ## Support
