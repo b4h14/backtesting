@@ -22,7 +22,6 @@
 
 ## Support
 
-> **[?]**
 > just click on the ask a question above.
 
 Reach out to the maintainer at one of the following places:
