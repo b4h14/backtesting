@@ -4,7 +4,7 @@
   <br />
   <br />
   .
-  <a href="https://twitter.com/home?lang=pt">Ask a Question</a>
+  <a href="https://twitter.com/Gagaudiasss">Ask a Question</a>
 </div>
 
 ## About
